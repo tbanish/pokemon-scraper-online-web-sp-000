@@ -14,7 +14,7 @@ class Pokemon
       self.update
     else
       sql = <<-SQL
-        INSERT INTO 
+        INSERT INTO pokemon
   end
   
   
